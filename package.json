@@ -1,0 +1,17 @@
+{
+  "name": "test_profile3_yarn",
+  "version": "1.0.0",
+  "description": "yarn test",
+  "main": "index.js",
+  "repository": "https://github.com/mounika-erla/test_profile3_yarn.git",
+  "author": "mounika-erla <erlamounika520@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "echo 'No build process required'",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {
+    "firebase-tools": "^10.0.0"
+  }
+}
